@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">whatdidilearn</string>
+    <string name="item_title">Kotlin</string>
+    <string name="item_content">
+        Donec id eleifend lacus, a tincidunt ante. Cras hendrerit, nisl sit amet pellentesque gravida, nunc leo pulvinar tellus, sit amet porttitor tellus risus eget massa.
+        Mauris tincidunt mi elit, nec aliquet ante auctor et. Cras vel augue vitae enim laoreet maximus. Cras ac mauris turpis. Cras ut risus nec mauris dapibus hendrerit.
+        Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas nec gravida odio, eget ullamcorper ex. Vestibulum congue porta ornare.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
